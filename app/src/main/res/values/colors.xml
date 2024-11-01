@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple_500">#D4BEE4</color>
+    <color name="purple_700">#9B7EBD</color>
+    <color name="teal_200">#387478</color>
+    <color name="teal_700">#243642</color>
+    <color name="gray">#E4E0E1</color>
+    <color name="textPrimary">#000000</color> <!-- Warna teks untuk light mode -->
+    <color name="textPrimaryInverse">#FFFFFF</color> <!-- Warna teks untuk dark mode -->
+
+    E4E0E1
+</resources>

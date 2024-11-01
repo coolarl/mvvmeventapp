@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">mvvmnewsapp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="breaking_news">Breaking News</string>
+    <string name="saved_news">Saved News</string>
+    <string name="past_events">Past Events</string>
+    <string name="Search_news">Search News</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="finished">Finished</string>
+    <string name="openlink">Open</string>
+    <string name="Times">Waktu :</string>
+    <string name="onwer">Penyelenggara :</string>
+    <string name="size">Sisa kuota :</string>
+    <string name="description">description :</string>
+    <string name="dicoding">Dicoding Event</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="event_owner_format">Penyelenggara: %1$s</string>
+    <string name="event_time_format">Waktu: %1$s</string>
+    <string name="event_quota_format">Sisa Kuota: %1$d</string>
+
+
+
+</resources>
